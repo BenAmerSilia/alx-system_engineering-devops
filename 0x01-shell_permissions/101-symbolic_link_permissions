@@ -1,2 +1,2 @@
 #!/bin/bash
-vincent:staff _hello
+chmod vincent:staff _hello
